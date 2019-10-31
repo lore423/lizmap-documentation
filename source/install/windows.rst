@@ -568,6 +568,8 @@ http://localhost/
 http://localhost/admin.php
 
 The username and password for admin corresponds to :kbd:`admin/admin`
+
+Lizmap Web interface preview
  
 .. image:: https://i.imgur.com/ugVmxDK.png
     :width: 530px
