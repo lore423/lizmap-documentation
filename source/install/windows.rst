@@ -539,7 +539,7 @@ The process of installing the Apache, PHP and Lizmap web server is summarized as
 
    httpd.exe -k install
 
-.. image:: https://i.imgur.com/CEUZQQp.png
+.. image:: https://i.imgur.com/R1qMS2B.jpg
     :width: 400px
     :align: center
     :height: 100px
@@ -571,7 +571,7 @@ The username and password for admin corresponds to :kbd:`admin/admin`
 
 Lizmap Web interface preview
  
-.. image:: https://i.imgur.com/ugVmxDK.png
+.. image:: https://i.imgur.com/b8mxPh6.jpg
     :width: 530px
     :align: center
     :height: 250px
